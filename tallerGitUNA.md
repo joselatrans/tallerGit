@@ -47,7 +47,7 @@ git commit -m "un comentario" **ATENCIÓN**
 >     git add <archivo>
 >     git commit -m "agregué plantas comestibles"
 
-![Lo hicimos: Staging area](/home/jose/Documents/R_TALLER/tallerGitUNA)
+![Lo hicimos: Staging area](/home/jose/Documents/R_TALLER/tallerGitUNA/git-staging-area.png)
 5. Agregar archivo a la carpeta
     + Agregar itemes al archivo
 
