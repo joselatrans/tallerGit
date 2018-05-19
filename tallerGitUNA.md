@@ -151,7 +151,8 @@ En caso de ser necesario:
 
 :metal:
 
-##Recursos
+## Recursos
+
 [Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 Presentaciones base para el taller
