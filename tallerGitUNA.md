@@ -121,7 +121,7 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 
 > git clone <link>
 
-Añadan a su colaborador
+3. Añadan a su colaborador
 
 ![Agregar colaboradores](https://github.com/joselatrans/tallerGit/blob/master/imagenes/agregarMiembrosGit.png?raw=true)
 
@@ -141,7 +141,7 @@ Lo bueno es que se pueden resolver fácil :chicken:
 
 En caso de ser necesario:
 
-> git push -u origin master --force
+> git push --force origin master 
 
 2. Ahora el "dueño" arregle los cambios y los sube 
 3. El colaborador haga **pull**
