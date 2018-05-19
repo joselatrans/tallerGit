@@ -42,12 +42,13 @@ git commit -m "un comentario" **ATENCIÓN**
 ```
 4. Editar documento
     + Ver diferencias entre los archivos
->    git diff <archivo>
+>    git diff <archivo>	(--staged)
 + Commit
 >     git add <archivo>
 >     git commit -m "agregué plantas comestibles"
 
-![Lo hicimos: Staging area](/home/jose/Documents/R_TALLER/tallerGitUNA/git-staging-area.png)
+![Lo hicimos: Staging area](https://github.com/joselatrans/tallerGit/blob/master/git-staging-area.png)
+
 5. Agregar archivo a la carpeta
     + Agregar itemes al archivo
 
