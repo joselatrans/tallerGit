@@ -47,7 +47,7 @@ git commit -m "un comentario" **ATENCIÓN**
 >     git add <archivo>
 >     git commit -m "agregué plantas comestibles"
 
-![Lo hicimos: Staging area](https://github.com/joselatrans/tallerGit/blob/master/git-staging-area.png)
+![Lo hicimos: Staging area](https://github.com/joselatrans/tallerGit/blob/master/imagenes/git-staging-area.png?raw=true)
 
 5. Agregar archivo a la carpeta
     + Agregar itemes al archivo
@@ -61,7 +61,7 @@ git commit -m "un comentario" **ATENCIÓN**
 
 ### HEAD
 
-![Control de versiones](git-checkout.png)
+![Control de versiones](https://github.com/joselatrans/tallerGit/blob/master/imagenes/git-checkout.png?raw=true)
 
 ```
 git diff **HEAD~1** <archivo>
