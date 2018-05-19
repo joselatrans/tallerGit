@@ -89,7 +89,7 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 3. Gitee :metal:
 
 ## Colaboración
-![Repositorios]()
+![Repositorios](https://github.com/joselatrans/tallerGit/blob/master/imagenes/comparativa-git.png?raw=true)
 
 [Github](https://github.com/) es más famoso, pero [Gitlab](https://about.gitlab.com/) es completamente open source y además permite hacer repositorios privados de forma gratuita, para Github hay que pagar o poner el correo institucional (2 años). 
 
@@ -98,7 +98,7 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 
 2. Logueese en su cuenta
 
-![Repositorios de Git]()
+![Repositorios de Git](https://github.com/joselatrans/tallerGit/blob/master/imagenes/git_repositories.png?raw=true)
 
 1. Haga un repositorio nuevo en su cuenta.
 
@@ -107,7 +107,7 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 > git push -u origin master
 
 ### Ramificaciones
-![Branches]()
+![Branches](https://github.com/joselatrans/tallerGit/blob/master/imagenes/branches_git.png?raw=true)
 
 > git branch
 
@@ -115,7 +115,7 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 
 #### Trabajo en grupo
 
-1. Haga una carpeta nueva que se llame jardinColaboracion
+1. Haga una carpeta nueva que se llame **gitColaboracion**
 
 2. Vaya a esa carpeta en la linea de comandos de Git
 
@@ -123,7 +123,7 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 
 Añadan a su colaborador
 
-![Agregar colaboradores]()
+![Agregar colaboradores](https://github.com/joselatrans/tallerGit/blob/master/imagenes/agregarMiembrosGit.png?raw=true)
 
 #### ¿Sin conflictos o con conflictos?
 
@@ -131,9 +131,9 @@ Añadan a su colaborador
 git push
 git pull
 ```
-![Catdog]()
+![Catdog](https://github.com/joselatrans/tallerGit/blob/master/imagenes/catdog.jpg?raw=true)
 
-Cada vez que un colaborador haga cambios y los suba el otro debe de usar *pull* si no lo hace van a haber conflictos
+Cada vez que un colaborador haga **cambios** y los suba el otro debe de usar **pull** si **no** lo hace van a haber **conflictos**
 
 Lo bueno es que se pueden resolver fácil :chicken:
 
