@@ -59,4 +59,36 @@ git commit -m "un comentario" **ATENCIÓN**
 
 >     git log
 
+### HEAD
+
+![Control de versiones](git-checkout.png)
+
+```
+git diff **HEAD~1** <archivo>
+```
+> checkout
+
+Checkout es un comando que nos permite volver a la versión que está bien, en caso de que hayamos guardado y "giteado" un error terrible.
+
+### Ignorando cosas
+En un git no siempre es conveniente subir todo lo que tenemos en la carpeta.
+
+Git hace una copia de **todos** los archivos en esa carpeta, debemos de mantenerla liviana.
+
+> .gitignore
+
+Es un archivo que sirve para decirle a Git que no queremos que copie
+
+1. Cree algunos archivos
+2. Cree un .gitignore
+3. Ponga el nombre de los archivos en el .gitignore
+4. Gitee la carpeta
+
+¿Qué pasa si giteamos los archivos y luego los metemos en el .gitignore?
+
+- Extra: 
+1. Cree archivos d1.dat, d2.dat, d3.dat
+2. Metalos en el .gitignore con <*.dat>
+3. Gitee :metal:
+
 
