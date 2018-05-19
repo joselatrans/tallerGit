@@ -1,8 +1,5 @@
-```
-https://jiffyclub.github.io/2015-07-06-scipy/slides-local_version_control.html#/5
-http://slides.com/abostroem/collaborating_using_git#/
-http://slides.com/abostroem/deck-4#/
-```
+![](https://github.com/joselatrans/tallerGit/blob/master/imagenes/git1.gif?raw=true)
+
 # ¿Qué es [Git](https://git-scm.com/)?
 * Es un sistema de **control de versiones**
 * Creado por Linus Torvalds durante la creación de Linux
@@ -37,7 +34,7 @@ http://slides.com/abostroem/deck-4#/
 git status
 git init
 git status (de nuevo)
-git add *<archivo>*
+git add <archivo>
 git commit -m "un comentario" **ATENCIÓN**
 ```
 4. Editar documento
@@ -64,7 +61,7 @@ git commit -m "un comentario" **ATENCIÓN**
 ![Control de versiones](https://github.com/joselatrans/tallerGit/blob/master/imagenes/git-checkout.png?raw=true)
 
 ```
-git diff **HEAD~1** <archivo>
+git diff HEAD~1 <archivo>
 ```
 > checkout
 
@@ -91,4 +88,77 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 2. Metalos en el .gitignore con <*.dat>
 3. Gitee :metal:
 
+## Colaboración
+![Repositorios]()
 
+[Github](https://github.com/) es más famoso, pero [Gitlab](https://about.gitlab.com/) es completamente open source y además permite hacer repositorios privados de forma gratuita, para Github hay que pagar o poner el correo institucional (2 años). 
+
+1. Haga un cuenta en **Gitlab**.
+	+ Si ya tiene logueese
+
+2. Logueese en su cuenta
+
+![Repositorios de Git]()
+
+1. Haga un repositorio nuevo en su cuenta.
+
+> git remote add origin <link>
+
+> git push -u origin master
+
+### Ramificaciones
+![Branches]()
+
+> git branch
+
+> git remote -v
+
+#### Trabajo en grupo
+
+1. Haga una carpeta nueva que se llame jardinColaboracion
+
+2. Vaya a esa carpeta en la linea de comandos de Git
+
+> git clone <link>
+
+Añadan a su colaborador
+
+![Agregar colaboradores]()
+
+#### ¿Sin conflictos o con conflictos?
+
+```
+git push
+git pull
+```
+![Catdog]()
+
+Cada vez que un colaborador haga cambios y los suba el otro debe de usar *pull* si no lo hace van a haber conflictos
+
+Lo bueno es que se pueden resolver fácil :chicken:
+
+1. Hagan cambios los dos y sin hacer **pull** hagan **push**
+
+En caso de ser necesario:
+
+> git push -u origin master --force
+
+2. Ahora el "dueño" arregle los cambios y los sube 
+3. El colaborador haga **pull**
+4. Edite el documento
+5. Suba los cambios
+6. Revisen
+
+:metal:
+
+##Recursos
+[Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+Presentaciones base para el taller
+```
+https://jiffyclub.github.io/2015-07-06-scipy/slides-local_version_control.html#/5
+http://slides.com/abostroem/collaborating_using_git#/
+http://slides.com/abostroem/deck-4#/
+```
+
+[Más sobre ramificaciones](https://gerardnico.com/code/version/git/branch)
