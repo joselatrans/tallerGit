@@ -93,7 +93,9 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 
 [Github](https://github.com/) es más famoso, pero [Gitlab](https://about.gitlab.com/) es completamente open source y además permite hacer repositorios privados de forma gratuita, para Github hay que pagar o poner el correo institucional (2 años). 
 
-1. Haga un cuenta en **Gitlab**.
+Sin embargo...
+
+1. Haga un cuenta en **Github**.
 	+ Si ya tiene logueese
 
 2. Logueese en su cuenta
