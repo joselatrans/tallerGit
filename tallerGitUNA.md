@@ -20,8 +20,8 @@
 * Iniciar git, agregar cambios (add), anotar cambios (commit), agregar ramas, push, etc.
 
 # Taller 
-1. Crear carpeta en el *Escritorio* **tallerGitNombre**
-2. Crear archivo **plantasCompartidasNombre.txt**
+1. Crear carpeta en el *Escritorio* **tallerGit<SuNombre>**
+2. Crear archivo **plantasCompartidas<SuNombre>.txt**
     + Hacer lista de 4 plantas favoritas
     + Guardar archivo
 3. Abrir linea de comandos de Git (Windows) (Linux / Mac abrir la terminal)
@@ -81,7 +81,7 @@ Es un archivo que sirve para decirle a Git que no queremos que copie
 3. Ponga el nombre de los archivos en el .gitignore
 4. Gitee la carpeta
 
-¿Qué pasa si giteamos los archivos y luego los metemos en el .gitignore?
+¿Qué pasa si "giteamos" los archivos y luego los metemos en el .gitignore?
 
 - Extra: 
 1. Cree archivos d1.dat, d2.dat, d3.dat
@@ -148,6 +148,22 @@ En caso de ser necesario:
 4. Edite el documento
 5. Suba los cambios
 6. Revisen
+
+# Integración con RStudio
+
+Ruta para configuración:
+  
+  Tools --> Global options... --> Git/SVN
+  
+**Se usa para proyectos**
+
+#### Ejercicio
+
+1. Cree un proyecto en RStudio de la carpeta *tallerGit<SuNombre>*
+  1.2. Explórelo
+  
+2. Cree un proyecto en RStudio
+  2.1. Hágale un repositorio Git desde RStudio
 
 :metal:
 
