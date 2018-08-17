@@ -1,3 +1,4 @@
+![](https://github.com/joselatrans/tallerGit/blob/master/imagenes/Heredia.jpg?raw=true)
 ![](https://github.com/joselatrans/tallerGit/blob/master/imagenes/git1.gif?raw=true)
 
 # ¿Qué es [Git](https://git-scm.com/)?
@@ -152,6 +153,8 @@ En caso de ser necesario:
 6. Revisen
 
 # Integración con RStudio
+
+![](https://github.com/joselatrans/tallerGit/blob/master/imagenes/joke.png?raw=true)
 
 Ruta para configuración:
   
