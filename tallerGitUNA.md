@@ -22,7 +22,7 @@
 
 # Taller 
 
-![La historia]()
+![La historia](https://github.com/joselatrans/tallerGit/blob/master/imagenes/conejo.png?raw=true)
 
 1. Crear carpeta en el *Escritorio* **tallerGit<SuNombre>**
 2. Crear archivo **plantasCompartidas<SuNombre>.txt**
@@ -112,7 +112,7 @@ Sin embargo...
 
 > git push -u origin master
 
-![]()
+![](https://github.com/joselatrans/tallerGit/blob/master/imagenes/pushRun.jpeg?raw=true)
 
 ### Ramificaciones
 ![Branches](https://github.com/joselatrans/tallerGit/blob/master/imagenes/branches_git.png?raw=true)
