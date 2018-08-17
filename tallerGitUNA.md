@@ -21,6 +21,9 @@
 * Iniciar git, agregar cambios (add), anotar cambios (commit), agregar ramas, push, etc.
 
 # Taller 
+
+![La historia]()
+
 1. Crear carpeta en el *Escritorio* **tallerGit<SuNombre>**
 2. Crear archivo **plantasCompartidas<SuNombre>.txt**
     + Hacer lista de 4 plantas favoritas
@@ -57,7 +60,7 @@ git commit -m "un comentario" **ATENCIÓN**
 
 >     git log
 
-### HEAD
+### Diferencias?
 
 ![Control de versiones](https://github.com/joselatrans/tallerGit/blob/master/imagenes/git-checkout.png?raw=true)
 
@@ -108,6 +111,8 @@ Sin embargo...
 > git remote add origin <link>
 
 > git push -u origin master
+
+![]()
 
 ### Ramificaciones
 ![Branches](https://github.com/joselatrans/tallerGit/blob/master/imagenes/branches_git.png?raw=true)
