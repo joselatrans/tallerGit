@@ -131,8 +131,6 @@ Sin embargo...
 
 3. Añadan a su colaborador
 
-![Agregar colaboradores](https://github.com/joselatrans/tallerGit/blob/master/imagenes/agregarMiembrosGit.png?raw=true)
-
 #### ¿Sin conflictos o con conflictos?
 
 ```
