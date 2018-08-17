@@ -162,9 +162,11 @@ Ruta para configuración:
 #### Ejercicio
 
 1. Cree un proyecto en RStudio de la carpeta *tallerGit<SuNombre>*
+  
   1.2. Explórelo
   
 2. Cree un proyecto en RStudio
+  
   2.1. Hágale un repositorio Git desde RStudio
 
 :metal:
@@ -174,10 +176,15 @@ Ruta para configuración:
 [Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 Presentaciones base para el taller
-```
-https://jiffyclub.github.io/2015-07-06-scipy/slides-local_version_control.html#/5
-http://slides.com/abostroem/collaborating_using_git#/
-http://slides.com/abostroem/deck-4#/
-```
+Filipe Fernandes
+[1](https://jiffyclub.github.io/2015-07-06-scipy/slides-local_version_control.html#/5)
+[2](http://slides.com/abostroem/collaborating_using_git#/)
+[3](http://slides.com/abostroem/deck-4#/)
+![](https://www.acrl.ala.org/ULS/wp-content/uploads/2018/04/software-carpentry.png)
 
 [Más sobre ramificaciones](https://gerardnico.com/code/version/git/branch)
+
+# Institución
+![](http://www.documentos.una.ac.cr/bitstream/handle/unadocs/1684/UNA1LINE.JPG?sequence=3&isAllowed=y)
+![](http://www.exactasynaturales.una.ac.cr/images/logos/cienciasbiologicas.jpg)
+
