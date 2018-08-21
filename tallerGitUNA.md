@@ -186,7 +186,6 @@ Filipe Fernandes
 [1](https://jiffyclub.github.io/2015-07-06-scipy/slides-local_version_control.html#/5)
 [2](http://slides.com/abostroem/collaborating_using_git#/)
 [3](http://slides.com/abostroem/deck-4#/)
-![](https://www.acrl.ala.org/ULS/wp-content/uploads/2018/04/software-carpentry.png)
 
 [Más sobre ramificaciones](https://gerardnico.com/code/version/git/branch)
 
